@@ -1,4 +1,4 @@
-______________________________________________________________________________________________________________________________________________________________________________________
+
 <a href="https://ww2.uft.edu.br//"><img src="https://i.imgur.com/o29q3ZZ.png" title="source: imgur.com" width="100"/><br>**Universidade Federal do Estado do Tocantins**</a>
 
 
@@ -6,17 +6,17 @@ ________________________________________________________________________________
 **Disciplina:** Engenharia de Software <br>
 **Professor:** Edeilson Milhomem da Silva <br>
 **Aluna:** Gabrielle Guida Souza Nunes Campos
-______________________________________________________________________________________________________________________________________________________________________________________
-#R4 - Conveniência
+
+# R4 - Conveniência
 Em Convenvências é possível comprar produtos de convenência e tê-los diretamente em sua casa.
 
-##Atores
+## Atores
 - *Cliente: pessoa que irá comprar produtos da conveniência*
 
-##Pré Condição
+## Pré Condição
 1. Baixar o sistema em seu dispositivo
 
-##Fluxo Principal
+## Fluxo Principal
 1. Instalar (Do cliente)
 2. Efetuar login no aplicativo (Do cliente)
 3. Definir localização (Onde irá ser entregue o produto)
@@ -25,17 +25,17 @@ Em Convenvências é possível comprar produtos de convenência e tê-los direta
 6. Adicionar produto à sacola de compras
 7. Efetuar compra
 
-##Casos de Uso
+## Casos de Uso
 <a href="https://imgur.com/v3LqAJZ"><img src="https://i.imgur.com/v3LqAJZ.jpg" title="source: imgur.com" /></a>
 
-US | Histórias
-    ---------|----------
+US            | Histórias
+--------------|----------
 `US 1.0`      | Como **cliente que irá comprar produtos** da conveniência eu gostaria de *poder buscar as conveniências e ver elas em forma de lista*
 `US 1.1`      | Como **cliente que irá comprar produtos** da conveniência eu gostaria de *poder entrar na aba de uma conveniência e escolher produtos da mesma*
 `US 1.2`      | Como **cliente que irá comprar produtos** da conveniência eu gostaria de *utilizar ofertas para desconto do meu produto*
 `US 1.3`      | Como **cliente que irá comprar produtos** da conveniência eu gostaria de *pedir mais de um produto por vez em minha sacola*
 
-##Telas
+## Telas
 - Botão de conveniências no sistema:<br><br>
 <a href="https://imgur.com/rQDobIo"><img src="https://i.imgur.com/rQDobIo.png" title="source: imgur.com" /></a>
 <br><br><br>
