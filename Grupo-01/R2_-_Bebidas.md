@@ -60,7 +60,7 @@ Não existem campos de formulário para essa página
 
 - **Fluxos Alternativos (FA)**
 
-**FA01- Filtros de categoria de bebida:**
+**FA01- Filtrar categoria de bebida:**
 
 **	Ao filtrar as bebidas por categoria o usuário terá também filtros adicionais para possibilitar maior acertividade na escolha de seus produtos. 
 
@@ -101,7 +101,7 @@ Não existem campos de formulário para essa página
 &nbsp;
 
 
-- **Filtros de categoria de bebidas(FA01):**
+- **Filtrar categoria de bebidas(FA01):**
 
 <img src="https://i.imgur.com/GiHn9hW.png"/>
 
@@ -109,14 +109,14 @@ Não existem campos de formulário para essa página
 &nbsp;
 
 
-- **Seleção de oferta de ticket (FA02):**
+- **Selecionar oferta de ticket (FA02):**
 
 <img src="https://i.imgur.com/p6Au63x.png"/>
 
 
 &nbsp;
 
-- **Filtragem de oferta de ticket (FA03):**
+- **Filtrar oferta de ticket (FA03):**
 
 <img src="https://i.imgur.com/TA2dpeK.png"/>
 
